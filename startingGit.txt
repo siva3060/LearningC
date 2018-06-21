@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is my git file added to repo
+
+Adding The file to staging area
+git add <file_name>
